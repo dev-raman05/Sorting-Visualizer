@@ -21,4 +21,4 @@ A web application showcasing the inner workings of sorting algorithms.
 #### 2.3) Generation of new data (Randomly generate new data).
 ### 3.Time and Space complexity of algorithm being visualized.
 
-Take a look at live version:https://dev-raman05.github.io/Sorting-Visualizer/
+Take a look at live version: https://dev-raman05.github.io/Sorting-Visualizer/
